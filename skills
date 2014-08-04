@@ -1,0 +1,6 @@
+Mit CoreData werden die Daten auf dem Endgerät gespeichert. Neue Angriffe werden über eine
+Rest-Service-Anbindung von einem Java Rest-Service (Google App Engine mit JPA) abgerufen.
+Die Angriffe werden auf einer MapView mit Annotations dargestellt. Beim Klicken auf eine Annotation
+wird eine Detailseite zum Angriff angezeigt. Auf Wikipedia können weitere Informationen zum den angeifenden Hai eingesehen werden,
+falls die Information(Haispecies) bekannt ist.
+
